@@ -1,4 +1,4 @@
-# Práctica de Peluquería
+# Práctica Casa Domotica
 
 Programa hecho en colaboración de alumnos de la Universidad Politécnica de Madrid para la asignatura de Sistemas Inteligentes. El objetivo de este proyecto es realizar una casa domótica con controladores borrosos y emular una serie de características metereológicas para comprobar su funcionamiento.
 
